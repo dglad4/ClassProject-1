@@ -7,6 +7,9 @@
 }
 
 /*------THE MENU------*/
+#menu {
+    width: 100%;
+}
 .menu-container {
  max-width: 50rem;
  margin: 0 auto;
