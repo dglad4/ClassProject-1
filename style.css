@@ -7,9 +7,7 @@
 }
 
 /*------THE MENU------*/
-#menu {
-    width: 100%;
-}
+
 .menu-container {
  max-width: 50rem;
  margin: 0 auto;
@@ -96,66 +94,7 @@
 }
 
 
-/*------start of testimonials section------*/
 
-#testimonials {
-width:100%;
-}
-
-.card-wrap {
-position: relative;
-width: 60%;
-max-width: 1600px;
-margin: 0 auto;
-}
-
-.card-heading {
-  font-size: 1.5rem;
-  font-family: 'Heebo', sans-serif;
-  padding: 1rem 0 1rem 0;
-  width: 100%;
-  text-align: center;
-}
-.card {
-  /* Add shadows to create the "card" effect */
-  float: left;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  min-width: 200px;
-  max-width: 23%;
-  margin: 0 1% 0 1%;
-  transition: 0.3s;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  border-radius: 5px; /* 5px rounded corners */
-}
-
-/* On mouse-over, add a deeper shadow */
-.card:hover {
-  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.5);
-}
-
-/* Add some padding inside the card container */
-.card-container {
-  padding: 1rem 2rem;
-}
-
-/* Add rounded corners to the top left and the top right corner of the image */
-.card img {
-  width: 100%;
-  max-width: 500px;
-  border-radius: 5px 5px 0 0;
-}
-
-.card h3 {
-  font-family: 'Heebo', sans-serif;
-}
-
-.card p {
-  font-family: 'Roboto', sans-serif;
-  padding-top: 8px;
-}
-
-/*--------end of testimonials section---------*/
 
 /* Gallery Start */
 
